@@ -1,4 +1,4 @@
-# Koulun-nayttotyo
+# Pelin selite
 Kouluprojekti ohjelmoinnin alkeiskurssin näyttötyöksi. Pelissä on graafinen käyttöliittymä, ja itse peli pyörii isolta osin metodeilla, sekä switch and Case menetelmällä.
 
 Vampire the Masquerade, Chicago by night.
